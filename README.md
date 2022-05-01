@@ -1,10 +1,10 @@
 # Candoo
-Automatic Candle Extinguisher for Arduino Uno &amp; Nano\
+Automatic Candle Extinguisher for Arduino Uno &amp; Nano
 
 
 
 Parts List:\
-Arduino Nano or Equivalent x 1\
+Arduino Nano or Equivalent x 1
 
 16x2 LCD (I2C Compatible) x 1\
 Sparkfun LIS3DH Accelerometer x 1\
