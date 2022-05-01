@@ -16,7 +16,7 @@ CdS Photoresistor x 1\
 28BYJ-48 Stepper Motor x 1\
 ULN2003 Stepper Motor Driver Board x 1\
 IRF540 NMOS x 1\
-1k Ohm Resistor
+1k Ohm Resistor x 1
 
 2000mAh LiPo Battery (or Better) x 1\
 5v/2.4A LiPo Battery Charger/Booster x 1
