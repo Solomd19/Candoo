@@ -1,7 +1,12 @@
 # Candoo
 Automatic Candle Extinguisher for Arduino Uno &amp; Nano
 
-
+Features:
+- Candle fall detection and alarm
+- Automatic candle extinguishing via sealing aperture
+- Adjustable candle timer
+- Intuitive UI and button setup
+- ... and a startup jingle!
 
 Parts List:\
 Arduino Nano or Equivalent x 1
